@@ -48,11 +48,6 @@ function Footer() {
               </a>
             </li>
             <li>
-              <a href="/services" className="link">
-                Services
-              </a>
-            </li>
-            <li>
               <a href="/contact" className="link">
                 Contact
               </a>
